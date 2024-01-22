@@ -3,7 +3,7 @@ Welcome to Lidar Lounges's documentation!
 
 This is a searachble DOcumentation on all Lidarlounge processes
 
-Check out the :doc:`usage` section for further information, including
+Check out the :doc:`Automation Server` section for further information, including
 how to :ref:`installation` the project.
 
 .. note::
@@ -15,5 +15,5 @@ Contents
 
 .. toctree::
 
-   usage
+   Automation Server
    api
